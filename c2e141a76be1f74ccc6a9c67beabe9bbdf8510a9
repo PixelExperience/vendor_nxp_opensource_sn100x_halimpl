@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "abd438d1_714700f5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000433
+      },
+      "writtenOn": "2021-11-26T10:00:58Z",
+      "side": 1,
+      "message": "Personal pick for ginkgo until S caf stack gets merged.",
+      "revId": "c2e141a76be1f74ccc6a9c67beabe9bbdf8510a9",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    }
+  ]
+}
